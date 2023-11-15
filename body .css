@@ -1,21 +1,21 @@
 body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            padding: 20px;
-        }
-        header {
-            text-align: center;
-            padding: 20px;
-            background-color: #84b8d2;
-        }
-        section {
-            margin-top: 20px;
-        }
-        h1, h2, p {
-            color: #333;
-        }
-        img {
-            max-width: 15%;
-            height: auto;
-            border-radius: 50%; /* Untuk memberikan efek sudut melengkung pada foto profil */
-        }
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #84b8d2;
+}
+section {
+    margin-top: 20px;
+}
+h1, h2, p {
+        color: #333;
+}
+img {
+        max-width: 15%;
+        height: auto;
+        border-radius: 50%; /* Untuk memberikan efek sudut melengkung pada foto profil */
+}
